@@ -93,7 +93,7 @@ const firebaseConfig = {
   
         // Push to Firebase Database
         database_ref.child("users/" + user.uid).update(user_data);
-  
+        window.location.href = "index.html";
         // Done
       })
       .catch(function (error) {
