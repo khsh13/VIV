@@ -10,7 +10,7 @@ This website has used the following components for its frontend and backend aspe
 - TypeScript
 ### Backend Database
 - Firebase
-### Demo : https://viv.khushisharma41.repl.co/
+### Demo : https://viv-1.khushisharma41.repl.co/
 ## Images
 
 **Main Page**
