@@ -1,7 +1,7 @@
 # Wishify - You Wish We Gift
 ## About
 The website "Wishify" is an e-commerce platform designed to bring together small remote artists and the buyers of India. By offering a space where artists can sell their handmade products online, Wishify is solving multiple problems that both the artists and the buyers face in the traditional marketplace.
-This website has used the following components for its frontend and backend aspect
+This website has used the following components for its frontend and backend aspect.
 ### Frontend
 - HTML
 - CSS
